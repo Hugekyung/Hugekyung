@@ -2,7 +2,7 @@
 ![https://komarev.com/ghpvc/?username=Hugekyung](https://komarev.com/ghpvc/?username=Hugekyung)
 
 
-## 👋 &nbsp;백엔드 개발자 양태경입니다.
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">&nbsp;백엔드 개발자 양태경입니다.
 
 ✔️ &nbsp;지금에 만족하지 않고, 항상 더 나은 결과물을 위해 고민합니다.\
 ✔️ &nbsp;회사의 성장과 개인의 성장을 동일하게 생각합니다.\
