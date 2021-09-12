@@ -4,6 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">&nbsp;백엔드 개발자 양태경입니다.
 
+✔️ &nbsp;매일 조금씩 전진하며, 열심히 잔디를 심고 있습니다.:satisfied:\
 ✔️ &nbsp;지금에 만족하지 않고, 항상 더 나은 결과물을 위해 고민합니다.\
 ✔️ &nbsp;회사의 성장과 개인의 성장을 동일하게 생각합니다.\
 ✔️ &nbsp;다양한 언어와 프레임워크에 열려 있고, 새로운 기술을 환영합니다.\
