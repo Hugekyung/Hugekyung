@@ -10,8 +10,9 @@
 ✔️ &nbsp;다양한 언어와 프레임워크에 열려 있고, 새로운 기술을 환영합니다.\
 ✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://hugekyung.notion.site/BackEnd-Developer-8382ba3dfb7b4012bdd096e196f0f131">포트폴리오</a>를 방문해주세요.
 
+<br>
 
-### 🛠 &nbsp;Technical Skills
+### 🛠 &nbsp;`Technical Skills`
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -22,11 +23,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 💻 &nbsp;GitHub Analytics
+### 💻 &nbsp;`GitHub Analytics`
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Hugekyung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/Hugekyung/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugekyung&layout=compact&theme=algolia)](https://github.com/Hugekyung/github-readme-stats)
 
 
-### 🤝🏻 &nbsp;Contact
+### 🤝🏻 &nbsp;`Contact`
 <a href="mailto:kiki9510@gmail.com"><img src="https://img.shields.io/badge/-kiki9510@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
