@@ -22,11 +22,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 💻 &nbsp;`GitHub Analytics`
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Hugekyung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/Hugekyung/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugekyung&layout=compact&theme=algolia)](https://github.com/Hugekyung/github-readme-stats)
-
 
 ### 🤝🏻 &nbsp;`Contact`
 <a href="mailto:kiki9510@gmail.com"><img src="https://img.shields.io/badge/-kiki9510@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
