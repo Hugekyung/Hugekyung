@@ -9,7 +9,7 @@
 ✔️ &nbsp;지금에 만족하지 않고, 항상 더 나은 결과물을 위해 고민합니다.\
 ✔️ &nbsp;회사의 성장과 개인의 성장을 동일하게 생각합니다.\
 ✔️ &nbsp;다양한 언어와 프레임워크에 열려 있고, 새로운 기술을 환영합니다.
-# ✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://yhchan2000.notion.site/d4b8e33eed894cc3ae4a0ad2a8c03ce1">포트폴리오</a>를 방문해주세요.:satisfied:
+<!-- ✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://yhchan2000.notion.site/d4b8e33eed894cc3ae4a0ad2a8c03ce1">포트폴리오</a>를 방문해주세요.:satisfied: -->
 
 <br>
 
