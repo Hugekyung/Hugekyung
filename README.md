@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=E45D4C&height=240&section=header&text=SEA%20CHAN&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=2588F9&height=300&section=header&text=SEA%20CHAN&fontSize=60&fontColor=ffffff&fontAlignY=30&animation=twinkling)
 
 <a href="https://yhchan2000.notion.site/d4b8e33eed894cc3ae4a0ad2a8c03ce1"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
 ![https://komarev.com/ghpvc/?username=Hugekyung](https://komarev.com/ghpvc/?username=Hugekyung)
