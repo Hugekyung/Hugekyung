@@ -16,6 +16,7 @@
 ### 🛠 &nbsp;`Technical Skills`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&color=black)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&logoColor=NestJS&color=red)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=Express&color=black)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=black)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=django&color=black)&nbsp;
