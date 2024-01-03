@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=2588F9&height=300&section=header&text=HAE%20CHAN%20YANG&fontSize=60&fontColor=ffffff&fontAlignY=30&animation=twinkling)
 
-<a href="https://yhchan2000.notion.site/d4b8e33eed894cc3ae4a0ad2a8c03ce1"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+<a href="https://www.notion.so/yhchan2000/373ad8a8b5b34c1ba619fa94cc5571b4?pvs=4"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
 ![https://komarev.com/ghpvc/?username=Hugekyung](https://komarev.com/ghpvc/?username=Hugekyung)
 
 
