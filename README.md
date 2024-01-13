@@ -19,22 +19,9 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&logoColor=NestJS&color=red)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=Express&color=black)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=black)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=django&color=black)&nbsp;
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=MongoDB&color=black)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=PostgreSQL&color=black)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=MySQL&color=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&color=black)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=black)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=black)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=black)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&color=black)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=black)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&color=black)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&color=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=black)&nbsp;
 
 <br>
 
